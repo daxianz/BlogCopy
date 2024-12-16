@@ -578,7 +578,7 @@ valine:
 # Waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: https://blog-comment-o8bkx9gyc-daxianzs-projects.vercel.app/
+  serverURL: https://bolg-comment-bvcc1vfau-daxianzs-projects.vercel.app/
   bg:
   # Use Waline pageview count as the page view count
   pageview: false
