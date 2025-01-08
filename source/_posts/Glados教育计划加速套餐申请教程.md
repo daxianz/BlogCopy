@@ -1,8 +1,8 @@
 ---
-title: 草稿
+title: Glados教育计划加速套餐申请教程
 date: 2024-12-16 11:15:39
-tags: 实用工具
 categories: 实用工具
+tags: 实用工具
 ---
 # 学校教育邮箱注册激活——以本校为例
 
@@ -12,7 +12,7 @@ categories: 实用工具
 
 本校生请注意，统一身份认证系统更新后，把学生校园账号绑定微信登录的同学在登录校园门户时只能用微信扫码登录，但有些同学绑定微信时可能有些步骤出错，导致用微信扫码登录也不能登录，即，你登录不了你的账号了。这时候请拨打信息部老师电话：63741937，重置你的账号密码。
 
-# GLaDOS加速网络套餐edu教育网邮箱免费使用1年教程
+# Glados教育计划加速套餐申请教程
 
 # 产品介绍
 
@@ -42,7 +42,7 @@ GLaDOS Education提供：1. 如果您是高中到大学（中国）的学生或�
 
 ![glados注册验证邮件](https://cdn.jsdelivr.net/gh/daxianz/image-resource/glados%E6%B3%A8%E5%86%8C%E9%AA%8C%E8%AF%81%E9%82%AE%E4%BB%B6.png)
 
-登录后会提示填写GLaDOS官方邀请码，如下图所示：邀请码  JZELF-GSULR-G5LFS-BD1S4 输入官方邀请码确认账户真实性和增加使用天数，后期升级更高计划会优先。
+登录后会提示填写GLaDOS官方邀请码，如下图所示：邀请码：AT6DJ-2ZJL6-8JPIQ-J0AE1，输入官方邀请码确认账户真实性和增加使用天数，后期升级更高计划会优先。
 
 Welcome to GLaDOS! Let’s get you setup.  不要点击跳过，否则官方邀请码的优惠权益无法享受。
 
@@ -76,53 +76,47 @@ glados教育计划网址
 
 ![申请成功基本信息](https://cdn.jsdelivr.net/gh/daxianz/image-resource/%E7%94%B3%E8%AF%B7%E6%88%90%E5%8A%9F%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF.png)
 
-# Clash配置
+# 加速器配置
 
 官网网站有配置教程，按步骤即可，或者观看如下教程
 
 ## 进入Glados控制台
 
-控制台网址： https://glados.rocks/console ,点击Clash，进入Clash各平台客户端安装向导
+控制台网址： https://glados.rocks/console ,自由选择对应系统的加速器软件
 
-![Clash安装指导](https://cdn.jsdelivr.net/gh/daxianz/image-resource/Clash%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png)
+![加速器选择](https://dlink.host/wx2.sinaimg.cn/large/008E1Bgely8hxcddupdrrj314g0gj411.jpg)
 
-## Windows客户端
+## Windows客户端Mihomo Party加速器配置
 
-1. 点击Windows，下载[Clash For Windows 客户端](https://glados.one/tools/Clash.for.Windows.Setup.exe)
+![MIhomoParty使用向导](https://dlink.host/wx2.sinaimg.cn/large/008E1Bgely8hxcdctfaq3j30sd0gv41i.jpg)
 
-![ClashWindos安装](https://cdn.jsdelivr.net/gh/daxianz/image-resource/ClashWindos%E5%AE%89%E8%A3%85.png)
+![配置文件导入](https://dlink.host/wx4.sinaimg.cn/large/008E1Bgely8hxcdegnae9j30rs0kuac2.jpg)
 
-2. 安装完成后在上面的页面点击“[鼠标左键点击这里](clash://install-config?url=https://update.glados-config.com/clash/477901/f18d16d/131560/glados.yaml&name=GLaDOS)”，在浏览器上方允许浏览器打开Clash for Windows，下载配置文件
+![上网吧](https://dlink.host/wx1.sinaimg.cn/large/008E1Bgely8hxcdcu3g51j30rs0kutb7.jpg)
 
-![Windos客服端配置文件允许](https://cdn.jsdelivr.net/gh/daxianz/image-resource/Windos%E5%AE%A2%E6%9C%8D%E7%AB%AF%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%85%81%E8%AE%B8.png)
+其他客户端类似
 
-3. 打开Clash for Windows，选择General面板, 打勾 System Proxy(系统代理)
+# Glados会员
 
-![](https://cdn.jsdelivr.net/gh/daxianz/image-resource/ClashWindows%E6%89%93%E5%BC%80%E8%AE%BE%E7%BD%AE.png)
+Glados会员套餐可自行在商店中查看。
 
-到此Windows系统电脑即可科学上网（可以访问外网）
+教育计划套餐：365天，每月30GB流量
 
-## Android客户端
+基础版套餐：每月流量200GB，最高带宽100Mbps，买400天共199元，买100天79元
 
-1. 推荐在电脑上下载Clash for Android发送到手机上面安装（上一步配好了电脑的加速了），或者在手机上打开[Clash for Android](https://glados.rocks/console/clash)下载Clash for Android安装
+经验证，在教育计划套餐天数未结束前，购买基础版套餐可以将学生教育计划套餐自动升级为基础版套餐，即可以白嫖365天基础版套餐。不过，一般而言，每月30GB已够满足大多数日常办公学习，即使是在用加速器下载大型文件或软件的情况下。我唯二两次用超流量都是因为开加速器玩游戏，开加速玩鸣潮两三天用了我30GB流量。所以，可以根据自身需要，考虑是否购买基础版套餐升级教育计划套餐。
 
-Clash for Android：https://glados.rocks/console/clash
+会员是可以通过签到免费续杯的，简单计算一下：Glados教育计划给了免费一年的加速套餐，按360天算，每天签到按平均获得3点数（估计的/猜的），100点数可以兑换10天会员时间，那么粗略计算得，可以继续白嫖141天。当然，需要每天坚持签到，后续我看看能不能找到一个自动签到的工具。
 
-![ClashAndroid安装](https://cdn.jsdelivr.net/gh/daxianz/image-resource/ClashAndroid%E5%AE%89%E8%A3%851.png)
-
-2. 手机上打开Clash for Android，点击新配置，远程，Clash配置链接填订阅地址，提交保存，选中配置即可
-
-![](https://cdn.jsdelivr.net/gh/daxianz/image-resource/AndroidClash%E9%85%8D%E7%BD%AE1.jpg)
-
-![](https://cdn.jsdelivr.net/gh/daxianz/image-resource/AndroidClash%E9%85%8D%E7%BD%AE1%20(2).jpg)
-
-![](https://cdn.jsdelivr.net/gh/daxianz/image-resource/AndroidClash%E9%85%8D%E7%BD%AE1%20(3).jpg)
-
-# Clash会员签到
-
-Clash会员是可以通过签到免费续杯的，简单计算一下：Clash教育计划给了免费一年的加速套餐，按360天算，每天签到按平均获得3点数（估计的/猜的），100点数可以兑换10天会员时间，那么360*3=1080，（1080/100）*10=108天，108*3=324，（324/100）*10=32天，32*3=96，（96/100）*10=1天，最终粗略计算得，可以继续白嫖141天。当然，需要每天坚持签到，后续我看看能不能找到一个自动签到的工具。
+如果开通教育计划套餐就购买基础版套餐升级，按买基础版套餐100天的，共456天基础版套餐，那么坚持每天签到粗略计算得，可以签到白嫖天数197天，算上之前的465天，共662天，可以白嫖562天基础版套餐。
 
 ![会员签到](https://cdn.jsdelivr.net/gh/daxianz/image-resource/Clash%E4%BC%9A%E5%91%98%E7%AD%BE%E5%88%B0.png)
+
+# Clash注意事项
+
+- Clash不支持大多数联机游戏
+- windows系统在打开Clash的情况下关机会导致下次开机时默认打开使用代理服务器，不开Clash加速器上不了网了，所以关机前请关闭Clash
+  代理服务器设置参考：网络-Internet->代理->自动设置代理,开和手动设置代理-使用代理服务器,关
 
 参考文献：
 [GLaDOS加速网络套餐edu教育网邮箱免费使用1年教程首发](https://www.edumails.cn/glados.html)
