@@ -59,7 +59,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: https://dlink.host/wx3.sinaimg.cn/large/008E1Bgely8hxcfs4ou4vj30i20i3abe.jpg
+  img: https://dlink.host/wx1.sinaimg.cn/large/008E1Bgely8hxeuorot1rj30hs0hs0uu.jpg
   effect: false
 
 # Disable all banner images
@@ -213,10 +213,10 @@ reward:
   enable: true
   text:
   QR_code:
-    - img: https://cdn.jsdelivr.net/gh/daxianz/image-resource/wechat.png
+    - img: https://dlink.host/wx1.sinaimg.cn/large/008E1Bgely8hxeu4jye57j30kp0s6dhz.jpg
       link:
       text: 微信
-    - img: https://cdn.jsdelivr.net/gh/daxianz/image-resource/alipay.jpg
+    - img: https://dlink.host/wx2.sinaimg.cn/large/008E1Bgely8hxeu4bui05j30u01ao0vv.jpg
       link:
       text: 支付宝
 

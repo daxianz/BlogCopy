@@ -36,17 +36,17 @@ GLaDOS Education提供：1. 如果您是高中到大学（中国）的学生或�
 
 官网要求首次注册，必须用QQ或者Gmail邮箱。官网要求首次注册使用其它个人邮箱，然后在验证教育优惠的时候再验证edu邮箱。
 
-![glados注册界面](https://cdn.jsdelivr.net/gh/daxianz/image-resource/glados%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png)
+![glados注册界面](https://dlink.host/wx3.sinaimg.cn/large/008E1Bgely8hxeu90gs69j30qq0kpmyb.jpg)
 
 我们个人邮箱会收到来自验证邮件标题内容“GLaDOS Authentication”: You are receiving this email because you are requesting a GLaDOS authentication code Our staff will not ask for your code, please dont tell others this code..
 
-![glados注册验证邮件](https://cdn.jsdelivr.net/gh/daxianz/image-resource/glados%E6%B3%A8%E5%86%8C%E9%AA%8C%E8%AF%81%E9%82%AE%E4%BB%B6.png)
+![glados注册验证邮件](https://dlink.host/wx1.sinaimg.cn/large/008E1Bgely8hxeu9gx1ncj314l0e5acd.jpg)
 
 登录后会提示填写GLaDOS官方邀请码，如下图所示：邀请码：AT6DJ-2ZJL6-8JPIQ-J0AE1，输入官方邀请码确认账户真实性和增加使用天数，后期升级更高计划会优先。
 
 Welcome to GLaDOS! Let’s get you setup.  不要点击跳过，否则官方邀请码的优惠权益无法享受。
 
-![填写官方邀请码](https://cdn.jsdelivr.net/gh/daxianz/image-resource/%E5%A1%AB%E5%86%99%E5%AE%98%E6%96%B9%E9%82%80%E8%AF%B7%E7%A0%81.png)
+![填写官方邀请码](https://dlink.host/wx4.sinaimg.cn/large/008E1Bgely8hxeu9plr7lj312g0bw0to.jpg)
 
 # 教育优惠认证
 
@@ -54,27 +54,27 @@ Welcome to GLaDOS! Let’s get you setup.  不要点击跳过，否则官方邀�
 
 glados控制台界面
 
-![glados控制台界面](https://cdn.jsdelivr.net/gh/daxianz/image-resource/glados%E6%8E%A7%E5%88%B6%E5%8F%B0%E7%95%8C%E9%9D%A2.png)
+![glados控制台界面](https://dlink.host/wx4.sinaimg.cn/large/008E1Bgely8hxeua2lzsej314j0o0dj9.jpg)
 
 glados基本信息
 
-![glados基本信息](https://cdn.jsdelivr.net/gh/daxianz/image-resource/glados%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF.png)
+![glados基本信息](https://dlink.host/wx1.sinaimg.cn/large/008E1Bgely8hxeuaf72isj317c0hqdi9.jpg)
 
 glados教育计划网址
 
-![glados教育计划网址寻找](https://cdn.jsdelivr.net/gh/daxianz/image-resource/glados%E6%95%99%E8%82%B2%E8%AE%A1%E5%88%92%E7%BD%91%E5%9D%80%E5%AF%BB%E6%89%BE.png)
+![glados教育计划网址寻找](https://dlink.host/wx3.sinaimg.cn/large/008E1Bgely8hxeualo61wj31h30o140s.jpg)
 
-教育计划认证
+教育计划认证，要使用edu邮箱。
 
-![教育计划认证](https://cdn.jsdelivr.net/gh/daxianz/image-resource/%E6%95%99%E8%82%B2%E8%AE%A1%E5%88%92%E8%AE%A4%E8%AF%81.png)
+![教育计划认证](https://dlink.host/wx1.sinaimg.cn/large/008E1Bgely8hxeuatak2zj315c0fi0vf.jpg)
 
 如果我们的edu邮箱符合要求那么就会提示如下图所示：
 
-![教育计划认证成功](https://cdn.jsdelivr.net/gh/daxianz/image-resource/%E6%95%99%E8%82%B2%E8%AE%A1%E5%88%92%E8%AE%A4%E8%AF%81%E6%88%90%E5%8A%9F.png)
+![教育计划认证成功](https://dlink.host/wx4.sinaimg.cn/large/008E1Bgely8hxeubknuf0j312f0blgmx.jpg)
 
 # 申请成功
 
-![申请成功基本信息](https://cdn.jsdelivr.net/gh/daxianz/image-resource/%E7%94%B3%E8%AF%B7%E6%88%90%E5%8A%9F%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF.png)
+![申请成功基本信息](https://dlink.host/wx4.sinaimg.cn/large/008E1Bgely8hxeubstea9j314r0gs40r.jpg)
 
 # 加速器配置
 
